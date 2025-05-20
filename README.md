@@ -3,7 +3,7 @@ A visual of my "Certifications" listed on my main GitHub page.
 
 # Table of Contents
 
-- [CompTia Network+ Certification](#CompTia-Network+-Certification)
+- [CompTia Network+ Certification](#CompTia-Certifications)
 - [ISC2 Certified in Cybersecurity Certification](#ISC2-Certified-in-Cybersecurity-Certification)
 - [Addtional ISC2 Certifications Earned through CC Program](#Addtional-ISC2-Certifications-Earned-through-CC-Program)
 
@@ -23,7 +23,7 @@ A visual of my "Certifications" listed on my main GitHub page.
 # My Certifications:
   - Below are the certifications I have completed while on my journey into the world of Cybersecurity. I will keep adading more as I successfully complete them.
 
-## CompTia Network+ Certification
+## CompTia Certifications
 
 ![Network+](https://github.com/user-attachments/assets/b9704e98-f851-4791-a2b2-6a2150f0e5c6)
 
