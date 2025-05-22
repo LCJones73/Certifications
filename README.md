@@ -33,4 +33,11 @@ A visual of my "Certifications" listed on my main GitHub page.
 
 ## Addtional ISC2 Certifications Earned through CC Program
 
+![image](https://github.com/user-attachments/assets/a70b9bc8-8820-4e7d-9fa6-5009bc5b80d4)
+
+- Domain 1: Security Principles
+- Domain 2: Incident Response, Business Continuity & Disaster Recovery Concepts
+- Domain 3: Access Control Concepts
+- Domain 4: Network Security
+- Domain 5: Security Operations
 
